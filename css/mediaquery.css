@@ -1,0 +1,28 @@
+
+@media all and (max-width:575px) {
+    .to-top-arrow{
+        top: 95%;
+        left: 95%;
+    }
+    }
+
+@media all and (min-width:576px) and (max-width:767px){
+    .to-top-arrow{
+        top: 95%;
+        left: 95%;
+    }
+}
+
+@media all and (min-width:768px) and (max-width:991px){
+    .to-top-arrow{
+        top: 95%;
+        left: 97%;
+    }
+}
+@media all and (min-width:992px) and (max-width:1199px) {
+   
+}
+
+@media all and (min-width:1200px) and (max-width:1201) {
+  
+}
